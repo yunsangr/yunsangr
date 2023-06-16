@@ -10,7 +10,7 @@
 
 
 ### 📖 Education : University of Toronto, Canada 🇨🇦
-- Computer Science Speicalist (expected graduation Apr 2023)
+- Computer Science Speicalist (~ Apr 2023)
 ### 👩‍🌾 Experience
 - KakaoHealthcare Corp. DevOps Engineer (May 2021 ~ Nov 2021) 🇰🇷
 - VisualCamp. Software Engineer (Dec 2019 ~ May 2021) 🇰🇷
